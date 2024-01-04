@@ -48,6 +48,19 @@ def subBytesInv(state):
 
 state = [50, 136, 49, 224, 67, 90, 49, 55, 246, 48, 152, 7, 168, 141, 162, 52]
 
+# def left_shift(data, amount):
+#     return data[amount:] + data[:amount]
+
+# state = [50, 136, 49, 224, 
+#          67, 90, 49, 55, 
+#          246, 48, 152, 7, 
+#          168, 141, 162, 52]
+# state2d = [state[i:i+4] for i in range(0,16,4)]
+# print(state2d)
+# state2d = [row[i:] + row[:i] for i, row in enumerate(state2d)]
+# state = sum(state2d,[])
+# print(state)
+
 print("Original State:")
 print(state)
 
