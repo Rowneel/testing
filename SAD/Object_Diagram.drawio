@@ -1,0 +1,83 @@
+<mxfile host="Electron" modified="2024-01-05T13:43:17.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="3pYOTZVnBbcFIxJEJT4W" version="22.1.2" type="device">
+  <diagram name="Page-1" id="Gp3pPxEx3VNT0UM7OH3x">
+    <mxGraphModel dx="1036" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-37" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="365" y="110" width="505" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-35" value="" style="group" parent="u_zGLsBY4kBxIBuXy2zE-37" vertex="1" connectable="0">
+          <mxGeometry width="505" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-2" value="Library" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="u_zGLsBY4kBxIBuXy2zE-35" vertex="1">
+          <mxGeometry x="125" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-3" value="sectionID: 3443&lt;br&gt;sectionName: education" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="u_zGLsBY4kBxIBuXy2zE-2" vertex="1">
+          <mxGeometry y="26" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-7" value="&lt;u&gt;Book1: Book&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="u_zGLsBY4kBxIBuXy2zE-35" vertex="1">
+          <mxGeometry y="150" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-10" value="bookID: 355&lt;br&gt;bookName: System Analysis and Design Methods&lt;br&gt;author: Jeffrey L Whitten" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="u_zGLsBY4kBxIBuXy2zE-7" vertex="1">
+          <mxGeometry y="26" width="180" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="u_zGLsBY4kBxIBuXy2zE-35" source="u_zGLsBY4kBxIBuXy2zE-2" target="u_zGLsBY4kBxIBuXy2zE-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-34" value="Has" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="u_zGLsBY4kBxIBuXy2zE-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.7545" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-14" value="&lt;u&gt;User1: User&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="u_zGLsBY4kBxIBuXy2zE-35" vertex="1">
+          <mxGeometry x="125" y="320" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-15" value="userID: 34&lt;br&gt;userName: Ronil Maharjan&lt;br&gt;booksBorrowed:[355, 367]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="u_zGLsBY4kBxIBuXy2zE-14" vertex="1">
+          <mxGeometry y="26" width="140" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.499;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" parent="u_zGLsBY4kBxIBuXy2zE-35" source="u_zGLsBY4kBxIBuXy2zE-10" target="u_zGLsBY4kBxIBuXy2zE-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="u_zGLsBY4kBxIBuXy2zE-35" source="u_zGLsBY4kBxIBuXy2zE-18" target="u_zGLsBY4kBxIBuXy2zE-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-27" value="Is Checked Out By" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="u_zGLsBY4kBxIBuXy2zE-26" vertex="1" connectable="0">
+          <mxGeometry x="0.7637" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-18" value="&lt;u&gt;Book2: Book&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="u_zGLsBY4kBxIBuXy2zE-35" vertex="1">
+          <mxGeometry x="210" y="150" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-19" value="bookID: 367&lt;br&gt;bookName: Introduction to Algorithm&lt;br&gt;author: Thomas H Cormen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="u_zGLsBY4kBxIBuXy2zE-18" vertex="1">
+          <mxGeometry y="26" width="180" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="u_zGLsBY4kBxIBuXy2zE-35" source="u_zGLsBY4kBxIBuXy2zE-2" target="u_zGLsBY4kBxIBuXy2zE-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-29" value="BorrowedBooks" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="u_zGLsBY4kBxIBuXy2zE-35" vertex="1">
+          <mxGeometry x="365" y="335" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-32" value="bookID: 355&lt;br&gt;userID: 34&lt;br&gt;dueDate:&amp;nbsp;2023-11-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="u_zGLsBY4kBxIBuXy2zE-29" vertex="1">
+          <mxGeometry y="26" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="u_zGLsBY4kBxIBuXy2zE-35" source="u_zGLsBY4kBxIBuXy2zE-14" target="u_zGLsBY4kBxIBuXy2zE-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-33" value="Borrowed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="u_zGLsBY4kBxIBuXy2zE-28" vertex="1" connectable="0">
+          <mxGeometry x="0.0032" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_zGLsBY4kBxIBuXy2zE-36" value="Fig: Object Diagram for Library Management System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="u_zGLsBY4kBxIBuXy2zE-37" vertex="1">
+          <mxGeometry x="32.5" y="440" width="440" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

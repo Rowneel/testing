@@ -1,0 +1,214 @@
+<mxfile host="Electron" modified="2023-11-18T15:09:50.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="G1sOvqSIqijVeEDFz6dF" version="22.0.3" type="device">
+  <diagram name="Page-1" id="vjmArjURaMnx2tPJK_au">
+    <mxGraphModel dx="691" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PLaQpZsZyReUA1yU1MBf-1" target="PLaQpZsZyReUA1yU1MBf-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-1" value="Hospital" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="70" y="80" width="88.88888888888889" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PLaQpZsZyReUA1yU1MBf-6" target="PLaQpZsZyReUA1yU1MBf-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-43" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PLaQpZsZyReUA1yU1MBf-42" vertex="1" connectable="0">
+          <mxGeometry x="-0.0014" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PLaQpZsZyReUA1yU1MBf-6" target="PLaQpZsZyReUA1yU1MBf-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-45" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PLaQpZsZyReUA1yU1MBf-44" vertex="1" connectable="0">
+          <mxGeometry x="-0.0225" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-6" value="Emergency" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="225.55555555555554" y="80" width="88.88888888888889" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-9" value="Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="403.33333333333337" y="20" width="88.88888888888889" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-19" value="Reception" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="403.33333333333337" y="140" width="88.88888888888889" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492.22222222222223" y="170" as="sourcePoint" />
+            <mxPoint x="581.1111111111111" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-26" value="Yes" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="PLaQpZsZyReUA1yU1MBf-25" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492.22222222222223" y="170" as="sourcePoint" />
+            <mxPoint x="581.1111111111111" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-28" value="No" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="PLaQpZsZyReUA1yU1MBf-27" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-30" value="get first" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="581.1111111111111" y="200" width="88.88888888888889" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLaQpZsZyReUA1yU1MBf-36" value="Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="581.11" y="90" width="88.89" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="460" width="1450" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-42" value="Decision Tree for a Payload System for a stuck" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="0TZo6C-ljCEXwnys40A_-44">
+          <mxGeometry x="500" y="310" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-43" value="" style="group" vertex="1" connectable="0" parent="0TZo6C-ljCEXwnys40A_-44">
+          <mxGeometry width="1450" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-1" value="Is Payload Heavy?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="0TZo6C-ljCEXwnys40A_-43">
+          <mxGeometry y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-2" value="Truck is able to carry the payload." style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="0TZo6C-ljCEXwnys40A_-43">
+          <mxGeometry x="203.32999999999998" width="196.67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.996;exitY=0.549;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="0TZo6C-ljCEXwnys40A_-43" source="0TZo6C-ljCEXwnys40A_-1" target="0TZo6C-ljCEXwnys40A_-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="119" y="120" />
+              <mxPoint x="160" y="120" />
+              <mxPoint x="160" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-6" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TZo6C-ljCEXwnys40A_-3">
+          <mxGeometry x="0.01" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-5" value="Heavy duty Truck?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="0TZo6C-ljCEXwnys40A_-43">
+          <mxGeometry x="210" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=none;jumpSize=7;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.001;exitY=0.439;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="0TZo6C-ljCEXwnys40A_-43" source="0TZo6C-ljCEXwnys40A_-1" target="0TZo6C-ljCEXwnys40A_-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="120" />
+              <mxPoint x="160" y="120" />
+              <mxPoint x="160" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-7" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TZo6C-ljCEXwnys40A_-4">
+          <mxGeometry x="0.0329" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-11" value="Truck is able to carry the payload." style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="0TZo6C-ljCEXwnys40A_-43">
+          <mxGeometry x="400" y="70" width="196.67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0TZo6C-ljCEXwnys40A_-43" source="0TZo6C-ljCEXwnys40A_-5" target="0TZo6C-ljCEXwnys40A_-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-15" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TZo6C-ljCEXwnys40A_-10">
+          <mxGeometry x="0.0617" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-14" value="Does the truck have long bed?" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="0TZo6C-ljCEXwnys40A_-43">
+          <mxGeometry x="400" y="170" width="196.67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0TZo6C-ljCEXwnys40A_-43" source="0TZo6C-ljCEXwnys40A_-5" target="0TZo6C-ljCEXwnys40A_-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-16" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TZo6C-ljCEXwnys40A_-13">
+          <mxGeometry x="0.0509" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-24" value="Truck will struggle with the payload." style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="0TZo6C-ljCEXwnys40A_-43">
+          <mxGeometry x="640" y="210" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0TZo6C-ljCEXwnys40A_-43" source="0TZo6C-ljCEXwnys40A_-14" target="0TZo6C-ljCEXwnys40A_-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0TZo6C-ljCEXwnys40A_-43" source="0TZo6C-ljCEXwnys40A_-14" target="0TZo6C-ljCEXwnys40A_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-28" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TZo6C-ljCEXwnys40A_-25">
+          <mxGeometry x="0.0515" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-27" value="Does the Truck have Enhanced suspension?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="0TZo6C-ljCEXwnys40A_-43">
+          <mxGeometry x="640" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0TZo6C-ljCEXwnys40A_-43" source="0TZo6C-ljCEXwnys40A_-14" target="0TZo6C-ljCEXwnys40A_-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-29" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TZo6C-ljCEXwnys40A_-26">
+          <mxGeometry x="-0.0345" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-33" value="Is the payload bilky and shaped wierd?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="0TZo6C-ljCEXwnys40A_-43">
+          <mxGeometry x="920" y="170" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0TZo6C-ljCEXwnys40A_-43" source="0TZo6C-ljCEXwnys40A_-27" target="0TZo6C-ljCEXwnys40A_-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="879.9999999999998" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-34" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TZo6C-ljCEXwnys40A_-32">
+          <mxGeometry x="-0.0069" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-41" value="Truck is able to carry the payload." style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="0TZo6C-ljCEXwnys40A_-43">
+          <mxGeometry x="1200" y="220" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0TZo6C-ljCEXwnys40A_-43" source="0TZo6C-ljCEXwnys40A_-33" target="0TZo6C-ljCEXwnys40A_-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-47" value="Truck is able to carry the payload with some stability." style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="0TZo6C-ljCEXwnys40A_-43">
+          <mxGeometry x="920" y="70" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0TZo6C-ljCEXwnys40A_-43" source="0TZo6C-ljCEXwnys40A_-27" target="0TZo6C-ljCEXwnys40A_-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-31" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TZo6C-ljCEXwnys40A_-30">
+          <mxGeometry x="-0.009" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-48" value="Truck may struggle with the payload and be unstable." style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="0TZo6C-ljCEXwnys40A_-43">
+          <mxGeometry x="1200" y="110" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0TZo6C-ljCEXwnys40A_-43" source="0TZo6C-ljCEXwnys40A_-33" target="0TZo6C-ljCEXwnys40A_-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TZo6C-ljCEXwnys40A_-38" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TZo6C-ljCEXwnys40A_-37">
+          <mxGeometry x="-0.0122" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
