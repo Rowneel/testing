@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="address">
+    <xs:complexType>
+        <xs:attribute name = "state" type="xs:string"/>
+        <xs:attribute name = "city" type="xs:string"/>
+        <xs:attribute name = "municipality" type="xs:string"/>
+        <xs:attribute name = "home-number" type="xs:string"/>
+    </xs:complexType>
+</xs:element>
+</xs:schema>

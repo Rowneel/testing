@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<address state = "state_name" city = "city_name" municipality="municipality_name" home-number="home_number" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="./address.xsd"></address>

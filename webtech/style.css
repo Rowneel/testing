@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+
+#navbar #logo{
+    padding: 5px;
+    margin-left: 10px;
+}
+
+#navbar #menu_options ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+#navbar #menu_options .menu-items a{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 1.3rem;
+    padding: 30px;
+}

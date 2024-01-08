@@ -1,0 +1,23 @@
+Define xml. List the advantage of using xml. 
+Difference between 2-tier, 3-tier and n-tier.
+Define css selector. How Id selector is different from class selector. Explain with example.
+Explain relative, float and absolute positioning with suitable example.
+Define HTTP. Explain overall function of HTTP.
+Define Cookie. How can we set and retrieve cookie? Explain with example.
+Define FTP. Explain overall function of FTP.
+Explain client-server technology in brief.
+Define xml namespace. Why it is important in xml?
+How css is implemented in web page? Explain with example.
+Write an example of client side script to validate form.
+Design the simple website menu with the use of html list and appropriate css.
+How get method is different from set method to send form data?
+How block level element is different from inline element? Explain with example.
+Define HTML with basic structure. 
+Explain the rules of writing xml document.
+What are the tags and attributes for table in HTML document?
+Define array in javascript. Explain with example.
+Explain xml with its element.(Simple, complex, etc)
+Write an example of client-side script to validate form.
+
+
+Media query and 1-tier, 2-tier, 3-tier and n-tier 10marks.
